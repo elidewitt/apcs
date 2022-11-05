@@ -1,0 +1,12 @@
+Project Title: 02.03 Java's Math Class - PyTheorem
+Project Objective: Calculate and print the solutions to the pythagorean theorem using randomly generated inputs
+Version or Date: 9/29/2021
+Author: Eli R DeWitt
+
+I already have experience with coding, so this project was very beginner for me.
+I didn't have any difficulties. A part of me that is used to javascript wanted
+the data to be availble and use a loop to print it but that wasn't the case here.
+
+One feature I added was a variable titled "triangles" which is an integer
+defining how many triangles to calculate and display. I used for loops to help
+with that process.

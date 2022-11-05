@@ -1,0 +1,11 @@
+Project Title: 04.06 Writing Text Files
+Project Objective: Randomly generate passwords and writes and reads a text file containing said passwords
+Version or Date: 11/13/2021
+Author: Eli R DeWitt
+
+I feel like I did it a little overkill...
+I created a static method to generate a random password by finding random numbers (with a modified range)
+and casting them to type char to get my numbers, uppercase, and lowercase. Then I created a separate
+static method to validate the passwords generated to make sure they contained all three pieces of critera.
+I used (lots) of loops to carry out this process until the program gets lucky (doesn't take very many tries)
+and finds a passwod that fits the criteria.

@@ -1,0 +1,17 @@
+Project Title: 03.07 Logical Operator
+Project Objective: Take the user's input to give a report on their TDEE
+Version or Date: 10/27/2021
+Author: Eli R DeWitt
+
+I already have experience with coding, so this project was very
+beginner for me.
+
+I'm not a huge fan of chains of if statements. So I instead used a list
+as a dictionary. So I met the criteria of "Conditional statement(s)
+used. I solved the problem of accepting both uppercase and 
+lowercase by using the String.toUpperCase() method immediatly after
+getting the user input on the necessary inputs. When there is an
+incorrect choice, it prints a message to the console at the end. I
+wanted to terminate it so it wouldn't make calculations incorrectly,
+but I don't really know how to do that. Instead I just set the effected
+variables to 0 or 0.0. 

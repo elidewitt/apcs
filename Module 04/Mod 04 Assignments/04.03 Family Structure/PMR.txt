@@ -1,0 +1,10 @@
+Project Title: 04.03 Reading Text Files
+Project Objective: Utilize loops to evaluate data in a text file
+Version or Date: 11/10/2021
+Author: Eli R DeWitt
+
+I already have experience with coding, so this project was very beginner for me.
+I added an additional statement in the loop to see if there were any errors,
+such as typing in AB instead of what we are looking for. I also used the
+String.toUpperCase method as another form of data valiation. I also created
+a rounding method to be reused a few times when displaying the percentages.

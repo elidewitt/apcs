@@ -1,0 +1,6 @@
+Project Title: 05.02 Defining New Static Methods: Part 2
+Project Objective: Utilize static methods to calculate and display the surface gravity of a planet
+Version or Date: 11/10/2021
+Author: Eli R DeWitt
+
+I already have experience with coding, so this project was very beginner for me. Although, previously didn't know how to declare variables across all methods in the class. So I experiemented and found something that worked. I think having the variables public is a better solution than passing in the information to the methods.

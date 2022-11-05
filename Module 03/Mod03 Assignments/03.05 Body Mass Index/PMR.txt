@@ -1,0 +1,8 @@
+Project Title: 03.05 Body Mass Index
+Project Objective: Get the users input about height and weight and tell the user their BMI and what it means
+Version or Date: 10/21/2021
+Author: Eli R DeWitt
+
+I already have experience with coding, so this project was very beginner for me.
+I did some reseach on how to organize variables and functions within a class to
+better organize them.

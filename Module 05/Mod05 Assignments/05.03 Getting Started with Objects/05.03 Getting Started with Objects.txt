@@ -1,0 +1,31 @@
+1. Personal Objects
+    * Driver's License
+    * Cell Phone
+    * Blanket
+
+2. School Objects
+    * Students
+    * Teachers
+    * Desks
+    * School Supplies
+    * Playground
+
+3. School Supplies
+    * Backpack
+    * Pencil
+    * Notebook
+    * Calculator
+    * Electronic Device
+
+4. Notebook
+    * College Ruled
+    * Spiral
+    * Blue
+    * Three Subject
+
+    * Journal Entry
+    * Retrieve from / Deposit into backpack 
+
+5. An object is something with attributes/properties that you can interact with
+
+

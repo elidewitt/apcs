@@ -1,0 +1,7 @@
+Project Title: 04.07 Challenge Program
+Project Objective: Use random numbers and math tricks to reveal a message
+Version or Date: 11/15/2021
+Author: Eli R DeWitt
+
+This program was a little tedious, but I got it figured out in the end. There were definitely easier ways
+to complete the objective, but I did my best to follow the guildlines in place for this assignment.

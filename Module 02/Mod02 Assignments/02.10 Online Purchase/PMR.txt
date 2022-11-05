@@ -1,0 +1,9 @@
+Project Title: 02.10 Online Purchase
+Project Objective: Utilize user input and parsing methods
+Version or Date: 10/11/2021
+Author: Eli R DeWitt
+
+This is similar to making web forms but I didn't implement any
+kind of validation. For example, if they forget one of the
+numbers in the debit card number, there will be an error because
+it cant find the 14th letter in that input. But it fits the criteria
