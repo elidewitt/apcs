@@ -1,0 +1,10 @@
+Project Title: Grades
+Project Objective: Calculate grades given the test scores
+Version or Date: 9/15/2021
+Author: Eli R DeWitt
+
+I already have experience with coding, so this project was very beginner for me.
+I didn't have much difficulty.
+Although I am used to JavaScript and am not totally new to the concept, declaring
+variable types is unfamiliar to me and took me a minute to realize that
+I had to use average = (double)totalPoints / numTests; instead of average = (double)(totalPoints / numTests);

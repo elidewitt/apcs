@@ -1,0 +1,13 @@
+Project Title: Student Contact Card
+Project Objective: Print out student information to terminal
+Version or Date: 9/11/2021
+Author: Eli R DeWitt
+
+I already have experience with coding, so this project was very beginner for me.
+I didn't have any difficulties. A part of me that is used to javascript wanted
+the data to be availble and use a loop to print it but that wasn't the case here.
+
+I didn't see much information on the PRR on the assignment page so I hope this
+will suffice.
+
+I believe this is all I need to submit, if not I'll check the feedback :)

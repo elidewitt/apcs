@@ -1,0 +1,12 @@
+Project Title: Primative Data Types
+Project Objective: Perform simple calculations using variables of type INT and DOUBLE
+Version or Date: 9/12/2021
+Author: Eli R DeWitt
+
+I already have experience with coding, so this project was very beginner for me.
+I didn't have any difficulties. It is just tedious.
+
+I didn't see much information on the PRR on the assignment page so I hope this
+will suffice.
+
+I believe this is all I need to submit, if not I'll check the feedback :)

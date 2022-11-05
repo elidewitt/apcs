@@ -1,0 +1,16 @@
+Project Title: Currency Conversions
+Project Objective: Translate currencies and track transactions
+Version or Date: 9/21/21
+Author: Eli R DeWitt
+
+For the past few assignments I was getting tired of the manual labor
+that is retyping the same thing but with different numbers. I
+challenged myself to use lists and loops while still fitting the
+criteria. So I did some research on how to use lists and for loops in
+java and made adding new items and locations so much easier. I spent
+too much time trying to figure out how to use multidimentional arrays
+nested objects but my current solution works.
+
+I don't have a link for my conversions. I just googled "currency
+conversion" and google had an embeded converter. Data provided by 
+Monringstar for Currency and Coinbase for Cryptocurrency.
